@@ -4,14 +4,14 @@
 
 .NOTES
     Author          : Fasi Sika
-    LinkedIn        : [linkedin.com/in/fasisika](linkedin.com/in/fasisika)
-    GitHub          : [github.com/fyceu](github.com/fyceu)
+    LinkedIn        : linkedin.com/in/fasisika
+    GitHub          : github.com/fyceu
     Date Created    : 2025-01-04
     Last Modified   : 2025-01-04
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN10-AU-000500
+    STIG-ID         : WN10-00-000090
 
 .TESTED ON
     Date(s) Tested  : 
