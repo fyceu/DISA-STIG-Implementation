@@ -6,7 +6,7 @@
 
 ## Objective 
 
-The objective of this project was to intentionally deploy an insecure Windows 10 virtual machine and remediate identified security misconfigurations using **DISA STIG ([Windows 10 v3r1](https://stigaview.com/products/win10/v3r1))** guidance. 
+The objective of this project was to intentionally deploy an insecure Windows 10 virtual machine and remediate identified security misconfigurations using **DISA STIG** guidance ([Windows 10 v3r1](https://stigaview.com/products/win10/v3r1)). 
 
 The goal was to strengthen hands-on experience with:
 - Writing and troubleshooting **PowerShell** remediation scripts 
@@ -15,7 +15,7 @@ The goal was to strengthen hands-on experience with:
 - Validating security posture improvements through post-remediation vulnerability scans
 - Reinforcing how misconfigurations and insecure default settings can increase organizational risk
 
-PowerShell scripts used for remediation can be viewed [here]()
+PowerShell scripts used for remediation can be viewed [here](https://github.com/fyceu/DISA-STIG-Implementation/tree/main/scripts)
 
 ## Tech Stack
 <img width="50" height="50" alt="tenable-svgrepo-com" src="https://github.com/user-attachments/assets/48f74213-3554-4f6a-b873-ab985d2061ab" /> 
