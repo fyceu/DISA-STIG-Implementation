@@ -20,7 +20,6 @@
     PowerShell Ver. : 
 
 .USAGE
-    Adjsut the $desiredMaxDays variable that complies to your company's policy
     Run the script with Administrative permissions in Command Prompt or PowerShell
     
     PS & '.\WN10-CC-000066 - Remediation Script.ps1'
